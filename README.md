@@ -15,13 +15,13 @@ A simple todo list app using React Native
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/umrbdlziz/Todo-List-App.git
 ```
 
 Create new app
 
 ```bash
-  npx todolist --template
+  npx create-expo-app todolist
 ```
 
 Go to the project directory
